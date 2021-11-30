@@ -1,0 +1,1 @@
+Hint was there in the question title. You have to use the [Strings](https://www.ibm.com/docs/en/aix/7.2?topic=s-strings-command) program which will the print all the embedded print texts in a binary file and will give the flag in base64 encoded format. Decode it to get the flag.
